@@ -1,4 +1,4 @@
-# Hi there, I'm SanPranav 👋
+# Hi there, I'm Pranav 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and love to contribute to open-source projects.
 ## GitHub Stats
