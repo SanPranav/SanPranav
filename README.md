@@ -1,11 +1,6 @@
 # Hi there, I'm SanPranav 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and love to contribute to open-source projects.
-
-<p align="center">
-  <img src="https://github.com/SanPranav.png" width="100px" style="border-radius: 50%;" alt="SanPranav's avatar"/>
-</p>
-
 ## GitHub Stats
 
 <p align="center">
